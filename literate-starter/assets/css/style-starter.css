@@ -10361,7 +10361,7 @@ nav#breadcrumbs a:hover {
   box-shadow: var(--card-box-shadow);
   border-radius: var(--border-radius);
   transition: 0.3s ease-in;
-  background-color: var(--bg-color); }
+background-image: url(../images/banner.jpg); }
 
 .w3l-index2 .s-block:hover {
   box-shadow: var(--card-hover-box-shadow);
