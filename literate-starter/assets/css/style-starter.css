@@ -10363,8 +10363,8 @@ nav#breadcrumbs a:hover {
   transition: 0.3s ease-in;
   background-color: var(--bg-color); }
 
-.w3l-index2 .img {
-  background-image: url(../images/banner.jpg); }
+.w3l-index2 .imagenes {
+  background-image: url(../images/s1.jpg); }
 
 .w3l-index2 .s-block:hover {
   box-shadow: var(--card-hover-box-shadow);
